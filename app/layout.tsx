@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "pontua. | Ranking de membros",
-  description: "Registre entregas, acompanhe a validação e veja o ranking mensal do grupo.",
+  title: "PET UFC Russas | Quadro de Pontos",
+  description: "Organize as tarefas do PET UFC Russas, acompanhe as entregas e dispute o ranking de pontos do grupo.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
